@@ -41,8 +41,8 @@
 2) Elvis
 
 ## При написание этого эссе использовались:
-1) https://wunsh.ru/docs/erlang-libraries
-2) https://habr.com/ru/articles/235719/https://habr.com/ru/articles/235719/
+1) https://habr.com/ru/articles/235719/https://habr.com/ru/articles/235719/
+2) https://habr.com/ru/articles/50028/
 3) Джо Армстронг «Программирование на Эрланге. Программное обеспечение для параллельного мира»
 
 ## Книга:
